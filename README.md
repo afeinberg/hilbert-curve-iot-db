@@ -1,2 +1,1 @@
-# heatmap
-An IoT-enabled heatmap generator
+# Minimal IoT database using a Hilbert curve
